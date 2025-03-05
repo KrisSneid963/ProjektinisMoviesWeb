@@ -527,6 +527,12 @@
       "email": "a@gmail.com",
       "password": "P0000000",
       "role": "user"
+    },
+    {
+      "id": "fd05",
+      "email": "kristina@gmail.com",
+      "password": "Tunakent12",
+      "role": "user"
     }
   ]
 }
